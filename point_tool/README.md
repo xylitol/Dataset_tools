@@ -10,6 +10,8 @@ Required Module (Recommand using anaconda)
 - PyQT5
 - python-opencv
 - argparse
+
+There should not be any file or folder other than jpg or png in the folder you are trying to work on.
 ```
 python ./point_tool.py --path {folder directory}
 ```
