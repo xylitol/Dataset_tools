@@ -3,7 +3,7 @@ Create, modify, and delete points where you want them to be in the picture, and 
 
 
 ## Demo
-<p align="center"><img src="./tool_Demo.gif" width="90%" height="90%" title="70px" alt="memoryblock"></p>
+<p align="center"><img src="./point_demo.gif" width="90%" height="90%" title="70px" alt="memoryblock"></p>
 
 ## Getting Started
 * Check your chrome version and download the correct chromedriver for your version<br>
