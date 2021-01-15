@@ -5,55 +5,21 @@ Create, modify, and delete points where you want them to be in the picture, and 
 ## Demo
 <p align="center"><img src="./point_demo.gif" width="90%" height="90%" title="70px" alt="memoryblock"></p>
 
-## Getting Started
-* Check your chrome version and download the correct chromedriver for your version<br>
-* Check your chrome version link --> chrome://settings/help <br>
-* Other chromedriver download link --> https://chromedriver.chromium.org/downloads<br>
-* The chromedriver included in the repo is **87.0.4280.88**<br>
-* If you download another chromedriver, replace it with the repo's chromedriver.<br>
-
-
-**Download git and install module**
-```Shell
-git clone https://github.com/cjf8899/Crawler_exe.git
-
-cd Crawler_exe
-
-pip install pyinstaller
-
-pyinstaller --onefile main.py
-
-cd dist
-
-cp -r ../chromedriver .
+## How to use
+Required Module (Recommand using anaconda)
+- PyQT5
+- python-opencv
+- argparse
 ```
-
-the structures would like
-
+python ./point_tool.py --path {folder directory}
 ```
-~/Crawler_exe/
-    -- chromedriver
-      --chromedriver.exe
-    --dist
-      --main.exe
-      --chromedriver
-        --chromedriver.exe
-    --collect_links.py
-    --keywords.txt
-    --LICENSE
-    --main.py
-    --requirements.txt
-    ...
-```
-
-**Enter the main.exe file and run it!**
+The txt file is saved in the folder where the executable is located by the name of the date and time format.
 
 
 ## Development Environment
-
 * Windows 10
 * Python
 * Visual Studio Code
 
 ## Referenced. Thank you all
-code : https://github.com/YoongiKim/AutoCrawler
+code : https://github.com/brotherwook/Make_AIDataset/blob/master/6.%20%EC%9E%A1%EB%8B%A4%ED%95%9C%EA%B1%B0/mouseclick.py
