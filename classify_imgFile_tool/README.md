@@ -8,9 +8,9 @@ Required Module (Recommand using anaconda)
 
 The Python file should be placed in the same folder containing images that need to be classified.
 
-### 1. Modify the DIR_# variable in the Python file with the names of folders to hold classified images.
-### 2. ```python ./classi_img.py```
-### 3. *'A' : Move to DIR_1 *'S' : Move to DIR_2 *'D' : Move to DIR_3 *SpaceBar : Move to DIR_4 *'B' : Previous Image
+#### 1. Modify the DIR_# variable in the Python file with the names of folders to hold classified images.
+#### 2. ```python ./classi_img.py```
+#### 3. *'A' : Move to DIR_1 *'S' : Move to DIR_2 *'D' : Move to DIR_3 *SpaceBar : Move to DIR_4 *'B' : Previous Image
 
 ## Development Environment
 * Windows 10
