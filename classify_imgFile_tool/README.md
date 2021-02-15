@@ -12,7 +12,7 @@ The Python file should be placed in the same folder containing images that need 
 #### 2. ```python ./classi_img.py```
 #### 3. 'A' : Move to DIR_1  'S' : Move to DIR_2    'D' : Move to DIR_3   SpaceBar : Move to DIR_4   'B' : Previous Image
 
-asdsa    sdsd
+asdsa        sdsd
 
 ## Development Environment
 * Windows 10
