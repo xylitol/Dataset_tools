@@ -11,9 +11,9 @@ Required Module (Recommand using anaconda)
 #### 1. The Python file must be in the same location as the folder containing the image you are working with.
 #### 2. It can only be used for 'jpg' and 'png' format images.
 #### 3. ```python ./remove_sameImg.py```
-<p align="center"><img src="./demo/screenshot.png" width="60%" height="60%" title="70px" alt="memoryblock"></p>
-<p align="center"><img src="./demo/screenshot2.png" width="60%" height="60%" title="70px" alt="memoryblock"></p>
-<p align="center"><img src="./demo/screenshot3.png" width="60%" height="60%" title="70px" alt="memoryblock"></p>
+<img src="./demo/screenshot.png" width="50%" height="50%" title="70px" alt="memoryblock">
+<img src="./demo/screenshot2.png" width="50%" height="50%" title="70px" alt="memoryblock">
+<img src="./demo/screenshot3.png" width="50%" height="50%" title="70px" alt="memoryblock">
 
 
 ## Development Environment
