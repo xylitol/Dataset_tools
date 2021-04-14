@@ -10,7 +10,8 @@ Required Module (Recommand using anaconda)
 
 #### 1. The Python file must be in the same location as the folder containing the image you are working with.
 #### 2. It can only be used for 'jpg' and 'png' format images.
-#### 3. ```python ./remove_sameImg.py```
+#### 3. Among the duplicate images found, delete the rest except the one with the best resolution.
+#### 4. ```python ./remove_sameImg.py```
 <img src="./pic/screenshot.png" width="50%" height="50%" title="70px" alt="memoryblock"><img src="./pic/screenshot2.png" width="50%" height="50%" title="70px" alt="memoryblock"><img src="./pic/screenshot3.png" width="50%" height="50%" title="70px" alt="memoryblock">
 
 <img src="./pic/sample.png" width="60%" height="60%" title="70px" alt="memoryblock">
